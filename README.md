@@ -8,9 +8,11 @@ Analyze Google Play Store app data and user reviews to understand factors influe
 - User Review Data (Sentiment)
 
 ## Key Insights
-- User engagement strongly drives installs
-- Free/freemium apps scale better
-- App size and content rating impact adoption
+-Optimize App Size
+-Free apps scale significantly better than paid apps.
+-Apps rated “Everyone” or “Everyone 10+” reach larger user bases.
+-High-install apps still receive negative reviews—continuous improvement is critical.
+
 
 ## Tools Used
 - Python
