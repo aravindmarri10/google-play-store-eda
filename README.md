@@ -1,6 +1,6 @@
-# 📊 Google Play Store Exploratory Data Analysis (EDA)
+#  Google Play Store Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+##  Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on the Google Play Store dataset to understand:
 - App distribution across categories
 - Relationship between ratings, installs, size, and pricing
@@ -11,7 +11,7 @@ The goal is to extract **meaningful insights** that can help developers and busi
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Source: Google Play Store dataset (Kaggle)
 - Key columns used:
   - App
@@ -26,7 +26,7 @@ The goal is to extract **meaningful insights** that can help developers and busi
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 The following steps were performed before analysis:
 
 - Removed duplicate apps
@@ -41,7 +41,7 @@ The following steps were performed before analysis:
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 Key analyses performed include:
 
 - Distribution of apps across categories
@@ -59,7 +59,7 @@ Visualizations used:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Most apps on the Play Store are **compact in size**
 - **Games and Family** categories have the **largest and most variable app sizes**
 - Free apps dominate the platform in volume
@@ -69,7 +69,7 @@ Visualizations used:
 
 ---
 
-## 📈 Business Takeaways
+##  Business Takeaways
 - New developers should:
   - Focus on compact apps
   - Prefer free pricing models
@@ -81,13 +81,17 @@ Visualizations used:
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook / Google Colab
+
+---
+
+## Kaggle link
 
 ---
 
