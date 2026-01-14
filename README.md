@@ -93,6 +93,7 @@ Visualizations used:
 
 ## Kaggle link
 
+https://www.kaggle.com/code/aravindmaari/eda-of-play-store-app-and-user-review-data
 ---
 
 
