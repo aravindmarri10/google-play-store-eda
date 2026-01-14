@@ -91,9 +91,4 @@ Visualizations used:
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone the repository
-2. Upload the dataset to Google Colab or local environment
-3. Ensure the file path matches:
-   ```python
-   pd.read_csv('data/Play.csv')
+
